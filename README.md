@@ -110,4 +110,3 @@ El servidor estará disponible en `http://localhost:3000`
 - **403**: Error de autorización
 - **404**: Ruta no encontrada o recurso no existe
 - **500**: Error interno del servidor
-
